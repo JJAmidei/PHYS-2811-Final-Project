@@ -5,17 +5,15 @@ This is a four-page tutorial for special relativity. Specifically, this project 
 
 This was created using the Anaconda 2023.03-0 distribution; in particular, with the Jupyter Notebook (v.6.5.2) application and the Numpy (v.1.23.5) and Matplotlib (v.3.7.0) libraries. 
 
-## Viewing Notebook
+## Viewing the Notebook
 
-In order to actually run the coded cells in this notebook, you will have to clone this repository and open each page in the Jupyter Notebook apllication. 
+If you'd just like to view the notebook, you should be able to preview each page in GitHub. If any images do not display in the preview, please create an issue and I will try to resolve it as quickly as possible. 
 
-If you'd just like to preview a page, I've included .html links for this purpose. However, this will not allow you to run any of the coded cells.  
+In order to run the coded cells in this notebook, you will have to clone this repository and open each page in the Jupyter Notebook application. 
 
 ## Running Cells
 
-Each cell should be self-contained, so it is not necessary to run them in any specific order. However, if a cell is not running for whatever reason, try to restart the kernel. If the problem persists, create an issue (including information about the page number, section, and/or cell number) and I will attempt to resolve it as soon as possible. 
-
-Most cells pull from the \images folder and do not require you to run any code. If for some reason a .gif or .png does not appear, report an issue with the page title and section and I will attempt to resolve the issue. 
+Each cell should be self-contained, so it is not necessary to run them in any specific order. If a cell is not running for whatever reason, first try to restart the kernel. If the problem persists, please create an issue (including information about the page number, section, and/or cell number). 
 
 ## References
 
